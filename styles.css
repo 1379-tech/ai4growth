@@ -316,3 +316,10 @@ nav a:hover { color: var(--text); }
   .nav { gap: 1rem; align-items: flex-start; flex-direction: column; }
   nav { justify-content: flex-start; }
 }
+.brand-logo {
+  height: 52px;
+}
+
+.footer-logo {
+  height: 44px;
+}
