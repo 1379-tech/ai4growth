@@ -317,9 +317,13 @@ nav a:hover { color: var(--text); }
   nav { justify-content: flex-start; }
 }
 .brand-logo {
-  height: 52px;
+  height: 40px;
+  width: auto;
+  display: block;
 }
 
 .footer-logo {
-  height: 44px;
+  height: 36px;
+  width: auto;
+  display: block;
 }
