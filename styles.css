@@ -317,7 +317,8 @@ nav a:hover { color: var(--text); }
   nav { justify-content: flex-start; }
 }
 .brand-logo {
-  height: 40px;
+  height: 38px;
+}
   width: auto;
   display: block;
 }
