@@ -323,8 +323,10 @@ nav a:hover { color: var(--text); }
   display: block;
 }
 
+.brand-logo {
+  height: 52px;
+}
+
 .footer-logo {
-  height: 36px;
-  width: auto;
-  display: block;
+  height: 44px;
 }
